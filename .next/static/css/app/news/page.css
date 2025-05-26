@@ -76,3 +76,69 @@
   font-size: 1rem;
 }
 
+/*!***************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[3]!./app/_components/Pagination/index.module.css ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************************/
+.Pagination_container__AlsiS {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px;
+    margin-top: 24px;
+  }
+  
+  .Pagination_list__5wDb_ {
+    margin: 0 4px;
+  }
+  
+  .Pagination_item__dBgqh {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 36px;
+    height: 36px;
+    border-radius: var(--border-radius);
+  }
+  
+  .Pagination_current__9sq2b {
+    color: var(--color-text-unpainted);
+    background-color: var(--color-button-primary);
+  }
+  
+  
+/*!****************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[3]!./app/_components/SearchField/index.module.css ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************/
+.SearchField_form__WvcZ0 {
+    margin-bottom: 24px;
+  }
+  
+  .SearchField_search__sDWKL {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 12px 16px;
+    border: 1px solid #e6e6e6;
+    border-radius: 4px;
+    width: 100%;
+    max-width: 100%;
+  }
+  
+  .SearchField_search__sDWKL:focus-within {
+    border-color: #b3b3b3;
+  }
+  
+  .SearchField_searchInput__QTkQL {
+    display: block;
+    box-sizing: border-box;
+    padding: 0;
+    width: 100%;
+    -webkit-appearance: none;
+       -moz-appearance: none;
+            appearance: none;
+    -webkit-tap-highlight-color: transparent;
+    outline: none;
+    background-color: transparent;
+    border: 1px solid transparent;
+  }
+  
