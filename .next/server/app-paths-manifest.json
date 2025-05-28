@@ -1,12 +1,5 @@
 {
-  "/_not-found": "app/_not-found.js",
-  "/favicon.ico/route": "app/favicon.ico/route.js",
   "/page": "app/page.js",
-  "/members/page": "app/members/page.js",
-  "/news/[slug]/page": "app/news/[slug]/page.js",
-  "/news/category/[id]/p/[current]/page": "app/news/category/[id]/p/[current]/page.js",
-  "/news/category/[id]/page": "app/news/category/[id]/page.js",
   "/news/p/[current]/page": "app/news/p/[current]/page.js",
-  "/news/search/page": "app/news/search/page.js",
   "/news/page": "app/news/page.js"
 }
